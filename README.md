@@ -2,7 +2,7 @@
 
 ### About me 🧑:
 I am a Systems Analysis and Development student (Bechelors) and a fullstack JavaScript│NodeJs developer.<br/>
-I also have some knowledge in Python! <br/>
+I also have knowledge in Python! <br/>
 I am interested in furthering my skills and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
@@ -12,7 +12,6 @@ I am interested in furthering my skills and would 💖 to grow my knowledge in t
 - 🌱 I’m currently learning JavaScript Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 I will learn MySQL, React and Vue!
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 
 <br/>
@@ -63,4 +62,4 @@ I am interested in furthering my skills and would 💖 to grow my knowledge in t
   
 <a href="https://github.com/BrunoCyreno/The_Odin_Project/tree/main/Project-Recipes"> -->
 ---
-Last Edited on: 13/11/2022
+Last Edited on: 23/11/2022
