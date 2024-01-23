@@ -1,9 +1,8 @@
 ![Brunos profile banner](images/Banner.jpg)
 
 ### About me 🧑:
-I am a Systems Analysis and Development student (Bechelors) and a fullstack JavaScript│NodeJs developer.<br/>
-I also have knowledge in Python! <br/>
-I am interested in furthering my skills and would 💖 to grow my knowledge in these Technologies.
+I am a Systems Analysis and Development student (Bechelors) and a fullstack developer.<br/>
+I am interested in furthering my skills and would 💖 to grow my knowledge.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 <br/>
