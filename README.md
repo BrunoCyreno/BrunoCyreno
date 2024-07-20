@@ -1,7 +1,7 @@
 ![Brunos profile banner](images/Banner.jpg)
 
 ### About me 🧑:
-I am a Systems Analysis and Development student (Bechelors) and a fullstack developer.<br/>
+I am a 24 y.o Systems Analysis and Development student (Bechelors) and a fullstack developer.<br/>
 I am interested in furthering my skills and would 💖 to grow my knowledge.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
@@ -60,4 +60,4 @@ I am interested in furthering my skills and would 💖 to grow my knowledge.
   
 <a href="https://github.com/BrunoCyreno/The_Odin_Project/tree/main/Project-Recipes"> -->
 ---
-Last Edited on: 23/11/2022
+Last Edited on: 06/03/2024
